@@ -1,0 +1,5 @@
+Tudo é objeto.
+atributos:
+	São as propriedades de um objeto
+Métodos:
+	São as funcionalidades de um objeto.
