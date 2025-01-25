@@ -44,7 +44,8 @@ body * {
 }
 
 #conteiner {
-    width: 360px;
+    width: 100%;
+    max-width: 588px;
     /*height: 712px não coloca para preenchimenot aumotaico com inserção do conteudo*/
     margin: 56px auto 0px;
     /*Pela regra css o auto não aplica em cima/embaixo*/
